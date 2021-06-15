@@ -1,0 +1,20 @@
+.searchbox {
+  /*width: 100%;*/
+  position: relative;
+  /*display: inline-block;*/
+  /*background-color: blue;*/
+  /*z-index: 100;*/
+}
+
+.searchbox-items {
+  position: absolute;
+  width: 100%;
+  /*border-bottom: none;*/
+  /*border-top: none;*/
+  background-color: white;
+  z-index: 100;
+  /*position the autocomplete items to be the same width as the container:*/
+  /*top: 100%;*/
+  /*left: 0;*/
+  /*right: 0;*/
+}
